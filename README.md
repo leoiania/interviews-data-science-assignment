@@ -164,4 +164,7 @@ Now they want to embed your model in a web application.
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+:lizard:
+There are no particular things to notice, all notebooks are contained in Italian_Power_Load_Iania folder 
+The packages used are the standard ones (pandas, numpy, scikit-learn) and statsmodels for Time Series modeling purpose.
+The file of the model cannot be uploaded due to its very large size, this is the reason why I needed to train it again in challenge 4 and 5 and make these notebooks suitable for github (anyway the code for saving and loading it is still present but within comments).
